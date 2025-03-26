@@ -8,11 +8,11 @@ The Canton - Potsdam Hospital Dashboard provides a detailed data visualization o
 
 - 🛌 Bed Occupancy:
 
- - Private Beds: ~4K
+   - Private Beds: ~4K
 
- - General Beds: ~2K
+   - General Beds: ~2K
 
- - ICU Beds: ~1K
+   - ICU Beds: ~1K
 
 - 💰 Total Billing Amount: ₹190.4M
 
