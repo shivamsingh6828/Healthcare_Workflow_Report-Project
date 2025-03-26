@@ -1,9 +1,11 @@
 # Healthcare_Workflow_Report-Project
 
 📌 Overview
+
 The Canton - Potsdam Hospital Dashboard provides a detailed data visualization of hospital metrics, including patient admissions, bed occupancy, billing amounts, diagnosis types, and doctor feedback. Built using Power BI, this dashboard enables hospital administrators, doctors, and analysts to monitor hospital performance effectively.
 
 📊 Key Insights
+
 🛌 Bed Occupancy:
 
 - Private Beds: ~4K
@@ -19,6 +21,7 @@ The Canton - Potsdam Hospital Dashboard provides a detailed data visualization o
 📢 Doctor Feedback Volume: ~1.02K per doctor
 
 📌 Dashboard Features
+
 1.Diagnosis Type Analysis:
 
 - Viral Infection: 2.00K cases
@@ -62,6 +65,7 @@ The Canton - Potsdam Hospital Dashboard provides a detailed data visualization o
 - Patient ID Filter
 
 🛠️ Tech Stack Used
+
 - Power BI – For data visualization and interactive reports.
 
 - DAX (Data Analysis Expressions) – For advanced data calculations.
