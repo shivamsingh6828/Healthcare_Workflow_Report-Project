@@ -70,4 +70,4 @@ The Canton - Potsdam Hospital Dashboard provides a detailed data visualization o
 
 - DAX (Data Analysis Expressions) – For advanced data calculations.
 
-- CSV Data Sources – Hospital records and patient data.
+- Excel Data Sources – Hospital records and patient data.
